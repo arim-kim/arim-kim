@@ -1,6 +1,6 @@
 ### arim kim 
 * department : computer engineering SSWU
-* stack : <img src="https://img.shields.io/badge/AndroidStudio-#3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+* stack : <img src="https://img.shields.io/badge/Android-#3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 * 
 ---------------
